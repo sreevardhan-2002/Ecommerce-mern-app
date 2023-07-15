@@ -1,7 +1,7 @@
 main{ 
   height:100%;
   width: 100%;
-  background-image: url("C:/Users/sreev/OneDrive/Desktop/mern app/sree-ecom/frontend/public/BGMAIN.png");
+  background-image: url("../../public/BGMAIN.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
